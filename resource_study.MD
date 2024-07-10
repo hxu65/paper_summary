@@ -8,3 +8,5 @@ a great challenge has been the fast pace of changes in DL applications: the prev
     <li>Large on-chip memory for inference with small batches</li>
     <li> Support for half-precision floating-point computation </li>
 </ol>
+
+## Characterization of DL Inference
