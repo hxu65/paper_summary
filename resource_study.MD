@@ -10,7 +10,7 @@ a great challenge has been the fast pace of changes in DL applications: the prev
 </ol>
 
 ## Characterization of DL Inference
-In conlusion, all these following models need scale-up for precision and accuracy which need more in-chip memory and computer power and increasing both the temporal and spatial resolution.
+In conclusion, all these following models need scale-up for precision and accuracy which need more in-chip memory and computer power and increasing both the temporal and spatial resolution.
 <ol>
     <li>Ranking and Recommendation: 
     Support for powerful matrix and vector engines: Recommendation is usually formulated as an event-probability prediction problem, where an ML model predicts the probability of one or multiple events at the same time.These models usually use a combination of signals from dense and sparse features. If incorporating time into the event-probability models, it need more compute power.</li>
